@@ -1,0 +1,642 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Solar Standing Fan",
+      "brand": "NAJ",
+      "variant": "Arctic White",
+      "category": "Solar Fans",
+      "tag": "Best Seller",
+      "img": "/img/products/fan-white.png",
+      "bgFrom": "#f0f9ff",
+      "bgTo": "#ffffff",
+      "accentHex": "#2FB7E5",
+      "tagStyle": {
+        "background": "#eff6ff",
+        "color": "#2563eb",
+        "border": "1px solid #bfdbfe"
+      },
+      "specs": [
+        ["Blade", "16″ · 5-blade"],
+        ["Power", "Solar + AC/DC"],
+        ["USB", "Charging port"],
+        ["Bundle", "2× LED bulbs"],
+        ["Battery", "8 hr runtime"],
+        ["Remote", "Included"]
+      ],
+      "description": "Dual-powered stand fan engineered for environments with unreliable grid supply. Ships with a 6W solar panel and two LED bulbs — a complete off-grid comfort kit for homes, offices, and clinics."
+    },
+    {
+      "id": 2,
+      "name": "Solar Standing Fan",
+      "brand": "NAJ",
+      "variant": "Midnight Black",
+      "category": "Solar Fans",
+      "tag": "New",
+      "img": "/img/products/fan-black.png",
+      "bgFrom": "#18181b",
+      "bgTo": "#27272a",
+      "accentHex": "#2FB7E5",
+      "tagStyle": {
+        "background": "#eef2ff",
+        "color": "#4338ca",
+        "border": "1px solid #c7d2fe"
+      },
+      "specs": [
+        ["Blade", "16″ · 5-blade"],
+        ["Power", "Solar + AC/DC"],
+        ["USB", "Charging port"],
+        ["Bundle", "2× LED bulbs"],
+        ["Battery", "8 hr runtime"],
+        ["Remote", "Included"]
+      ],
+      "description": "Same dual-power engineering as the Arctic White, finished in high-gloss Midnight Black. The preferred specification for hospitality fitouts, executive offices, and commercial corridors."
+    },
+    {
+      "id": 3,
+      "name": "Tower Cooler Series",
+      "brand": "NAJ",
+      "variant": "Small · Medium · Large",
+      "category": "Air Coolers",
+      "tag": "Commercial",
+      "img": "/img/products/tower-cooler.png",
+      "bgFrom": "#f8fafc",
+      "bgTo": "#f1f5f9",
+      "accentHex": "#0C0976",
+      "tagStyle": {
+        "background": "#f1f5f9",
+        "color": "#475569",
+        "border": "1px solid #cbd5e1"
+      },
+      "specs": [
+        ["Cooling", "Evaporative"],
+        ["Sizes", "3 available"],
+        ["Mobility", "Caster wheels"],
+        ["Display", "Digital panel"],
+        ["Control", "Remote-ready"],
+        ["Tank", "Front-load"]
+      ],
+      "description": "Three-size commercial tower cooler range for open-plan offices, waiting areas, and event spaces. Evaporative technology achieves up to 10\u00b0C drop without refrigerant or complex installation."
+    },
+    {
+      "id": 4,
+      "name": "Standing Unit A/C",
+      "brand": "Casarte",
+      "variant": "Champagne Gold",
+      "category": "Premium A/C",
+      "tag": "Premium",
+      "img": "/img/products/vrf-tower.png",
+      "bgFrom": "#fffbeb",
+      "bgTo": "#fef3c7",
+      "accentHex": "#b45309",
+      "tagStyle": {
+        "background": "#fffbeb",
+        "color": "#b45309",
+        "border": "1px solid #fde68a"
+      },
+      "specs": [
+        ["Type", "Floor-standing Unit"],
+        ["Control", "Voice-enabled"],
+        ["Inverter", "Smart \u00b7 Class A"],
+        ["Gas", "R32 refrigerant"],
+        ["Zones", "Multi-zone ready"],
+        ["Finish", "Champagne gold"]
+      ],
+      "description": "Casarte\u2019s flagship floor-standing unit. Voice-activated control, champagne-gold finish, and multi-zone capability make it the specified choice for executive suites and luxury fitouts."
+    },
+    {
+      "id": 5,
+      "name": "Bladeless Fan",
+      "brand": "NAJ",
+      "variant": "Brushed Aluminium",
+      "category": "Premium Fans",
+      "tag": "New",
+      "img": "/img/products/bladeless-fan.png",
+      "bgFrom": "#f1f5f9",
+      "bgTo": "#e2e8f0",
+      "accentHex": "#475569",
+      "tagStyle": {
+        "background": "#f1f5f9",
+        "color": "#334155",
+        "border": "1px solid #94a3b8"
+      },
+      "specs": [
+        ["Airflow", "360\u00b0 loop"],
+        ["Control", "Touch panel"],
+        ["Noise", "< 25 dB"],
+        ["Placement", "Desk \u00b7 Table"],
+        ["Finish", "Brushed aluminium"],
+        ["Power", "USB-C"]
+      ],
+      "description": "A bladeless desk fan in brushed aluminium that circulates air through a precision annular loop. Whisper-quiet at under 25 dB \u2014 specified for boardrooms, clinics, and executive workstations."
+    },
+    {
+      "id": 6,
+      "name": "Solar Table Fan",
+      "brand": "Gadgery",
+      "variant": "Copper Finish",
+      "category": "Solar Fans",
+      "tag": "Eco",
+      "img": "/img/products/import/slide03_1.jpg",
+      "bgFrom": "#f0f9ff",
+      "bgTo": "#ffffff",
+      "accentHex": "#2FB7E5",
+      "tagStyle": {
+        "background": "#ecfdf5",
+        "color": "#059669",
+        "border": "1px solid #a7f3d0"
+      },
+      "specs": [
+        ["Power", "Integrated Solar Panel"],
+        ["Charging", "USB & DC Input Ports"],
+        ["Controls", "Mechanical Push Buttons"],
+        ["Design", "Copper-finished Grill"]
+      ],
+      "description": "The Solar Table Fan is a portable, energy-efficient cooling solution designed for outdoor and emergency use. It features a built-in solar panel for sustainable charging and a modern, compact aesthetic."
+    },
+    {
+      "id": 7,
+      "name": "Misting Pedestal Fan",
+      "brand": "Gadgery",
+      "variant": "White with Water Tank",
+      "category": "Fans",
+      "tag": "New",
+      "img": "/img/products/import/slide04_1.jpg",
+      "bgFrom": "#f0f9ff",
+      "bgTo": "#e0f2fe",
+      "accentHex": "#0284c7",
+      "tagStyle": {
+        "background": "#eef2ff",
+        "color": "#4338ca",
+        "border": "1px solid #c7d2fe"
+      },
+      "specs": [
+        ["Motor", "65W Copper Core"],
+        ["Misting", "4L Tank, Adjustable Mist"],
+        ["Speed", "3 Variable Settings"],
+        ["Controls", "Push Buttons with Timer"]
+      ],
+      "description": "A powerful floor-standing fan engineered for dual cooling \u2014 high-velocity airflow combined with integrated water misting technology. The 65W copper motor delivers robust air circulation while the 4-liter transparent water tank provides hours of cooling mist."
+    },
+    {
+      "id": 8,
+      "name": "Bladeless Table Fan",
+      "brand": "Gadgery",
+      "variant": "Brushed Silver",
+      "category": "Premium Fans",
+      "tag": "New",
+      "img": "/img/products/import/slide05_1.jpg",
+      "bgFrom": "#f8fafc",
+      "bgTo": "#e2e8f0",
+      "accentHex": "#64748b",
+      "tagStyle": {
+        "background": "#f1f5f9",
+        "color": "#475569",
+        "border": "1px solid #cbd5e1"
+      },
+      "specs": [
+        ["Technology", "Air Multiplier (Bladeless)"],
+        ["Motor", "DC Low-Noise Drive"],
+        ["Speed", "3 Quiet Settings"],
+        ["Finish", "Brushed Silver Metallic"]
+      ],
+      "description": "A sleek, bladeless table fan that delivers smooth, uninterrupted airflow through advanced air multiplier technology. The modern oval ring design is both safe and stylish, making it ideal for home or office desktops."
+    },
+    {
+      "id": 9,
+      "name": "Oscillating Pedestal Fan",
+      "brand": "Gadgery",
+      "variant": "Black with Rose Gold Accents",
+      "category": "Fans",
+      "tag": "Premium",
+      "img": "/img/products/import/slide06_1.jpg",
+      "bgFrom": "#1c1917",
+      "bgTo": "#292524",
+      "accentHex": "#d97706",
+      "tagStyle": {
+        "background": "#fef3c7",
+        "color": "#92400e",
+        "border": "1px solid #fde68a"
+      },
+      "specs": [
+        ["Motor", "60W Copper Core"],
+        ["Speed", "3 + Programmable Timer"],
+        ["Height", "Adjustable Extendable Pole"],
+        ["Oscillation", "90\u00b0 Wide Angle Coverage"],
+        ["Design", "Rose Gold Metallic Accents"]
+      ],
+      "description": "A premium oscillating pedestal fan featuring a 16-inch black wire mesh guard with 5 aerodynamic blades for maximum airflow. The adjustable height and wide oscillation range ensure full-room air distribution."
+    },
+    {
+      "id": 10,
+      "name": "Solar Fan",
+      "brand": "Gadgery",
+      "variant": "White Standing",
+      "category": "Solar Fans",
+      "tag": "Eco",
+      "img": "/img/products/import/slide07_1.jpg",
+      "bgFrom": "#f0f9ff",
+      "bgTo": "#ffffff",
+      "accentHex": "#0891b2",
+      "tagStyle": {
+        "background": "#ecfdf5",
+        "color": "#059669",
+        "border": "1px solid #a7f3d0"
+      },
+      "specs": [
+        ["Blade", "5-blade high-efficiency"],
+        ["Height", "Adjustable tilt"],
+        ["Solar", "Ready charging port"],
+        ["Control", "Multi-speed interface"]
+      ],
+      "description": "A versatile standing fan designed for optimal airflow. It features a sleek white finish and integrated solar panel connectivity for sustainable energy use."
+    },
+    {
+      "id": 11,
+      "name": "Tower Air Cooler",
+      "brand": "Gadgery",
+      "variant": "Slim White with Blue Accents",
+      "category": "Air Coolers",
+      "tag": "Popular",
+      "img": "/img/products/import/slide08_1.jpg",
+      "bgFrom": "#f8fafc",
+      "bgTo": "#f1f5f9",
+      "accentHex": "#0C0976",
+      "tagStyle": {
+        "background": "#eef2ff",
+        "color": "#0C0976",
+        "border": "1px solid #c7d2fe"
+      },
+      "specs": [
+        ["Cooling", "Evaporative with Water Tank"],
+        ["Speed", "3 Fan Settings"],
+        ["Modes", "Cool / Fan / Sleep"],
+        ["Timer", "Up to 8 Hours"]
+      ],
+      "description": "A slim, space-saving tower cooler with evaporative cooling technology. Features dual blue accent bands, a gold-trimmed control panel, and a large water tank for extended cooling sessions."
+    },
+    {
+      "id": 12,
+      "name": "Bladeless Tower Fan",
+      "brand": "Gadgery",
+      "variant": "Cream with Wood Legs",
+      "category": "Premium Fans",
+      "tag": "Design",
+      "img": "/img/products/import/slide09_1.jpg",
+      "bgFrom": "#faf5ff",
+      "bgTo": "#f3e8ff",
+      "accentHex": "#7c3aed",
+      "tagStyle": {
+        "background": "#f3e8ff",
+        "color": "#7c3aed",
+        "border": "1px solid #d8b4fe"
+      },
+      "specs": [
+        ["Type", "Bladeless Air Multiplier"],
+        ["Build", "ABS + Natural Wood Legs"],
+        ["Speed", "3 Adjustable Settings"],
+        ["Noise", "< 45 dB Whisper-Quiet"]
+      ],
+      "description": "A minimalist tower fan with a Scandinavian-inspired tripod design. Combines a matte cream finish with natural wood legs for a sophisticated mid-century modern aesthetic."
+    },
+    {
+      "id": 13,
+      "name": "Evaporative Air Cooler",
+      "brand": "Gadgery",
+      "variant": "White Tower with Backlight",
+      "category": "Air Coolers",
+      "tag": "Featured",
+      "img": "/img/products/import/slide10_1.jpg",
+      "bgFrom": "#f0f9ff",
+      "bgTo": "#e0f2fe",
+      "accentHex": "#0C0976",
+      "tagStyle": {
+        "background": "#dbeafe",
+        "color": "#1d4ed8",
+        "border": "1px solid #bfdbfe"
+      },
+      "specs": [
+        ["Cooling", "Evaporative, 4L Tank"],
+        ["Fan", "High-Velocity DC Motor"],
+        ["Display", "Digital LED Control Panel"],
+        ["Timer", "Programmable Up to 12 Hrs"],
+        ["Backlight", "Ambient Glow Illumination"]
+      ],
+      "description": "A multifunctional tower air cooler featuring dynamic backlit ambiance and powerful evaporative cooling. The large water reservoir and high-velocity fan provide effective cooling for medium to large rooms."
+    },
+    {
+      "id": 14,
+      "name": "ECO SmartCool Inverter AC",
+      "brand": "Firman",
+      "variant": "Split System Condenser",
+      "category": "Premium A/C",
+      "tag": "Inverter",
+      "img": "/img/products/import/slide12_1.jpg",
+      "bgFrom": "#f0fdf4",
+      "bgTo": "#dcfce7",
+      "accentHex": "#16a34a",
+      "tagStyle": {
+        "background": "#f0fdf4",
+        "color": "#16a34a",
+        "border": "1px solid #bbf7d0"
+      },
+      "specs": [
+        ["Technology", "GREEN INVERTER Compressor"],
+        ["Rating", "ECO SMARTCOOL Certified"],
+        ["Efficiency", "Triple Energy Saving Mode"],
+        ["Type", "Split System Outdoor Unit"],
+        ["Refrigerant", "Eco-Friendly R32"]
+      ],
+      "description": "A high-efficiency inverter split air conditioner condenser unit designed for superior energy savings. Incorporates ECO SMARTCOOL and GREEN INVERTER TECH for up to 70% reduced power consumption without compromising cooling performance."
+    },
+    {
+      "id": 15,
+      "name": "Digital Tower Cooler",
+      "brand": "Gadgery",
+      "variant": "White with LED Display",
+      "category": "Air Coolers",
+      "tag": "Digital",
+      "img": "/img/products/import/slide13_1.jpg",
+      "bgFrom": "#f8fafc",
+      "bgTo": "#f1f5f9",
+      "accentHex": "#0C0976",
+      "tagStyle": {
+        "background": "#eef2ff",
+        "color": "#4338ca",
+        "border": "1px solid #c7d2fe"
+      },
+      "specs": [
+        ["Display", "LED Temperature Readout"],
+        ["Tank", "4L Water Reservoir"],
+        ["Speed", "3 Settings + Turbo Mode"],
+        ["Timer", "Up to 8 Hours Auto Shut-Off"]
+      ],
+      "description": "An advanced evaporative air cooler with a bright digital temperature display. The sleek white body and minimal footprint fit seamlessly into any modern space while delivering powerful cooling."
+    },
+    {
+      "id": 16,
+      "name": "ThermoCool GenPAL Tower AC",
+      "brand": "Haier",
+      "variant": "Floor-Standing, 12,000 BTU",
+      "category": "Premium A/C",
+      "tag": "70% Savings",
+      "img": "/img/products/import/slide14_1.jpg",
+      "bgFrom": "#fffbeb",
+      "bgTo": "#fef3c7",
+      "accentHex": "#b45309",
+      "tagStyle": {
+        "background": "#fffbeb",
+        "color": "#b45309",
+        "border": "1px solid #fde68a"
+      },
+      "specs": [
+        ["Technology", "GenPAL Inverter System"],
+        ["Cooling", "12,000 BTU Capacity"],
+        ["Energy Saving", "Up to 70%"],
+        ["Control", "Digital Touch + Remote"],
+        ["Warranty", "5 Years Coverage"]
+      ],
+      "description": "A high-performance floor-standing air conditioner engineered for maximum energy efficiency. The GenPAL system delivers up to 70% electricity savings while maintaining powerful, consistent cooling across any room."
+    },
+    {
+      "id": 17,
+      "name": "Smart Tower Cooler",
+      "brand": "Gadgery",
+      "variant": "Dual-Tone Black & White",
+      "category": "Air Coolers",
+      "tag": "Smart",
+      "img": "/img/products/import/slide15_1.jpg",
+      "bgFrom": "#f8fafc",
+      "bgTo": "#f1f5f9",
+      "accentHex": "#0C0976",
+      "tagStyle": {
+        "background": "#eef2ff",
+        "color": "#4338ca",
+        "border": "1px solid #c7d2fe"
+      },
+      "specs": [
+        ["Modes", "Cool / Fan / Humidify"],
+        ["Display", "Digital Touch Panel"],
+        ["Speed", "3 Adjustable Levels"],
+        ["Oscillation", "80\u00b0 Wide Range"]
+      ],
+      "description": "A smart tower cooler with multi-zone cooling and intuitive digital controls. The dual-tone black and white design adds a modern aesthetic while the evaporative system provides fresh, humidified air."
+    },
+    {
+      "id": 18,
+      "name": "Royal Split Air Conditioner",
+      "brand": "Royal",
+      "variant": "Wall-Mounted White",
+      "category": "Premium A/C",
+      "tag": "Turbo Cool",
+      "img": "/img/products/import/slide16_1.jpg",
+      "bgFrom": "#f8fafc",
+      "bgTo": "#f1f5f9",
+      "accentHex": "#2563eb",
+      "tagStyle": {
+        "background": "#eff6ff",
+        "color": "#2563eb",
+        "border": "1px solid #bfdbfe"
+      },
+      "specs": [
+        ["Type", "Split Wall-Mounted Unit"],
+        ["Cooling", "Turbo Rapid Cooling Mode"],
+        ["Compressor", "High-Efficiency Rotary"],
+        ["Noise", "As Low As 20 dB"],
+        ["Refrigerant", "Eco-Friendly R32"]
+      ],
+      "description": "A wall-mounted split air conditioner engineered for quiet, efficient home cooling. Features a rotary compressor and turbo cooling mode for rapid temperature drop in any room."
+    },
+    {
+      "id": 19,
+      "name": "5-in-1 Climate Tower",
+      "brand": "Gadgery",
+      "variant": "Rose Gold, Touch Controls",
+      "category": "Premium A/C",
+      "tag": "5-in-1",
+      "img": "/img/products/import/slide17_1.jpg",
+      "bgFrom": "#fef2f2",
+      "bgTo": "#fce7f3",
+      "accentHex": "#e11d48",
+      "tagStyle": {
+        "background": "#fdf2f8",
+        "color": "#be185d",
+        "border": "1px solid #fbcfe8"
+      },
+      "specs": [
+        ["Functions", "Cool/Warm/Mist/Swing/Light"],
+        ["Control", "Touch-Sensitive Panel"],
+        ["Oscillation", "80\u00b0 Coverage"],
+        ["Noise", "< 50 dB Quiet Operation"]
+      ],
+      "description": "A versatile 5-in-1 climate control tower that cools, warms, humidifies, oscillates, and illuminates. The premium rose gold accents and responsive touch controls make it a stylish and functional addition to any space."
+    },
+    {
+      "id": 20,
+      "name": "Premium Tower Fan",
+      "brand": "Gadgery",
+      "variant": "Black, Rose Gold Band",
+      "category": "Fans",
+      "tag": "8-Speed",
+      "img": "/img/products/import/slide18_1.jpg",
+      "bgFrom": "#18181b",
+      "bgTo": "#27272a",
+      "accentHex": "#d97706",
+      "tagStyle": {
+        "background": "#fef3c7",
+        "color": "#92400e",
+        "border": "1px solid #fde68a"
+      },
+      "specs": [
+        ["Motor", "High-Torque DC Silent Drive"],
+        ["Speed", "8 Precision Settings"],
+        ["Oscillation", "90\u00b0 Wide Angle"],
+        ["Timer", "Up to 15 Hours"],
+        ["Design", "Rose Gold Accent Band"]
+      ],
+      "description": "A premium black tower fan with a distinctive rose gold metallic band and sleek matte finish. The high-torque DC motor delivers whisper-quiet operation while the space-saving design fits any room."
+    },
+    {
+      "id": 21,
+      "name": "Tower Fan Cooler",
+      "brand": "Gadgery",
+      "variant": "Black Grille, White Body",
+      "category": "Air Coolers",
+      "tag": "Evaporative",
+      "img": "/img/products/import/slide19_1.jpg",
+      "bgFrom": "#f8fafc",
+      "bgTo": "#f1f5f9",
+      "accentHex": "#0C0976",
+      "tagStyle": {
+        "background": "#eef2ff",
+        "color": "#4338ca",
+        "border": "1px solid #c7d2fe"
+      },
+      "specs": [
+        ["Cooling", "Evaporative + High-Velocity"],
+        ["Speed", "3 Customizable Settings"],
+        ["Tank", "3.5L Water Capacity"],
+        ["Timer", "Up to 8 Hours Auto Shut-Off"]
+      ],
+      "description": "A high-contrast evaporative tower cooler with a sleek black ventilation grille set against a crisp white body. Delivers cool, humidified air with quiet operation and intuitive touch controls."
+    },
+    {
+      "id": 22,
+      "name": "Crystal LED Ceiling Fan",
+      "brand": "Gadgery",
+      "variant": "Gold, Crystal Butterfly Accents",
+      "category": "Lights",
+      "tag": "Premium",
+      "img": "/img/products/import/slide22_1.jpg",
+      "bgFrom": "#fffbeb",
+      "bgTo": "#fef3c7",
+      "accentHex": "#b45309",
+      "tagStyle": {
+        "background": "#fffbeb",
+        "color": "#d97706",
+        "border": "1px solid #fde68a"
+      },
+      "specs": [
+        ["Lighting", "Integrated Cool-White LED"],
+        ["Fan", "Bladeless Air Multiplier"],
+        ["Frame", "Premium Gold Finish"],
+        ["Accents", "Iridescent Crystal Butterflies"],
+        ["Control", "Remote Included"]
+      ],
+      "description": "A stunning LED ceiling light with an integrated bladeless fan. The gold-brushed rectangular frame houses cool-white LED strips, while four iridescent crystal butterfly accents add an elegant touch."
+    },
+    {
+      "id": 23,
+      "name": "UV Sterilizer Cabinet",
+      "brand": "Gadgery",
+      "variant": "White, Clear Glass Door",
+      "category": "Lights",
+      "tag": "Hygiene",
+      "img": "/img/products/import/slide23_1.jpg",
+      "bgFrom": "#f0f9ff",
+      "bgTo": "#e0f2fe",
+      "accentHex": "#2563eb",
+      "tagStyle": {
+        "background": "#eff6ff",
+        "color": "#2563eb",
+        "border": "1px solid #bfdbfe"
+      },
+      "specs": [
+        ["Sterilization", "UV-C Light Technology"],
+        ["Capacity", "Multi-Purpose Interior Tray"],
+        ["Viewing", "Clear Tempered Glass Window"],
+        ["Controls", "ON/OFF Push Buttons"],
+        ["Material", "ABS Housing, Stainless Interior"]
+      ],
+      "description": "A professional-grade UV sterilization cabinet designed for salon and household hygiene. Features a large clear viewing window, UV-C sterilization with blue indicator beads, and simple push-button operation."
+    }
+  ],
+  "presets": [
+    {
+      "name": "NAJ Navy",
+      "bgFrom": "#07063d",
+      "bgTo": "#0C0976",
+      "accentHex": "#2FB7E5",
+      "tagStyle": {
+        "background": "#eef2ff",
+        "color": "#0C0976",
+        "border": "1px solid #c7d2fe"
+      }
+    },
+    {
+      "name": "Solar Warmth",
+      "bgFrom": "#fffbeb",
+      "bgTo": "#fef3c7",
+      "accentHex": "#b45309",
+      "tagStyle": {
+        "background": "#fffbeb",
+        "color": "#b45309",
+        "border": "1px solid #fde68a"
+      }
+    },
+    {
+      "name": "Midnight",
+      "bgFrom": "#18181b",
+      "bgTo": "#27272a",
+      "accentHex": "#2FB7E5",
+      "tagStyle": {
+        "background": "#eef2ff",
+        "color": "#4338ca",
+        "border": "1px solid #c7d2fe"
+      }
+    },
+    {
+      "name": "Slate Professional",
+      "bgFrom": "#f1f5f9",
+      "bgTo": "#e2e8f0",
+      "accentHex": "#475569",
+      "tagStyle": {
+        "background": "#f1f5f9",
+        "color": "#334155",
+        "border": "1px solid #94a3b8"
+      }
+    },
+    {
+      "name": "Emerald Eco",
+      "bgFrom": "#f0fdf4",
+      "bgTo": "#dcfce7",
+      "accentHex": "#16a34a",
+      "tagStyle": {
+        "background": "#f0fdf4",
+        "color": "#16a34a",
+        "border": "1px solid #bbf7d0"
+      }
+    },
+    {
+      "name": "Rose Gold",
+      "bgFrom": "#fef2f2",
+      "bgTo": "#fce7f3",
+      "accentHex": "#e11d48",
+      "tagStyle": {
+        "background": "#fdf2f8",
+        "color": "#be185d",
+        "border": "1px solid #fbcfe8"
+      }
+    }
+  ]
+}
